@@ -4,7 +4,7 @@ Modular and quite self replicant 3D printer
 
 Features
 ========
-* Modular
+* Modular structure
 * 4 motors for X axis, 2 for Y and 2 for Z.
 
 License
